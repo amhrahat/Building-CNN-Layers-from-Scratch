@@ -30,7 +30,7 @@ The model was trained on a custom image dataset.
    pip install -r requirements.txt
 4. Open the Jupyter Notebook to explore and execute the code:
    ```bash 
-   jupyter notebook Building-CNN-Layers-from-Scratch.ipynb
+   jupyter notebook Building_CNN_Layers_from_Scratch.ipynb
    
 ## Future Improvements  
 - Add support for advanced CNN layers such as Dropout and Batch Normalization.  
